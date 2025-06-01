@@ -1,31 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-- 🔭 I’m currently working on [Hospital Mangement System](https://ar-hospital-amber.vercel.app)
-
-- 🌱 I’m currently learning **server side in next.js**
-
-- 👨‍💻 All of my projects are available at [https://ahmad-raza-1.vercel.app/](https://ahmad-raza-1.vercel.app/)
-
-- 💬 Ask me about **react.js , Next.js**
-
-- 📫 How to reach me **382ahmadraza@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=382ahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="382ahmadraza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=382ahmadraza" alt="382ahmadraza" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+ ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
+<h1 align="center">Hi 👋, I'm Muhammad Qasim</h1> 
+<img align="right" alt="coding" width="400" src="https://github.com/qasim-you/qasim-you/blob/main/img.gif">
 <p align="left">
-<a href="https://linkedin.com/in/ahmadraza161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadraza161" height="30" width="40" /></a>
-<a href="https://fb.com/382ahmadraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="382ahmadraza" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=qasim-you&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-you" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🏆 Hackathon Achievements
+ 
+- 🥇 Solved 9/9 Puzzles in Harvard Hacathon
+- 🌟Finalist in the lab lab ai Lama hacathon.
+- 🚀 Built real-world solutions under tight deadlines
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=382ahmadraza&show_icons=true&locale=en&layout=compact" alt="382ahmadraza" /></p>
+## 💻 Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=382ahmadraza&show_icons=true&locale=en" alt="382ahmadraza" /></p>
+<div align="center">
+ 
+### 🖥 Frontend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> React.js | Advanced | Redux, React Query, Hooks |
+| <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30"/> Next.js | Advanced | App Router, API Routes |
+| <img src="https://reactnative.dev/img/header_logo.svg" width="30"/> React Native | Intermediate | Expo, Native CLI |
+| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> Tailwind CSS | Advanced | Custom Configurations |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript | Advanced | Type Safety, Generics |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=382ahmadraza&" alt="382ahmadraza" /></p>
+### ⚙ Backend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> Node.js | Advanced | Express, Fastify |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python | Advanced | FastAPI, Django |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB | Advanced | Mongoose, Aggregation |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | Intermediate | Prisma, Raw SQL |
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> Firebase | Advanced | Auth, Firestore |
+
+
+</div>
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/qasimyousaf940/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasim-you&theme=tokyonight" />
+</div>
+
+---
+
+## 🏆 Hackathon Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://lablab.ai/" target="_blank">
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" alt="Lab Lab AI Hackathon" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://international-tech-challenge.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" alt="International Tech Challenge" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://global-ai-competition.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" alt="Global AI Competition" width="300">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qasim-you&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
