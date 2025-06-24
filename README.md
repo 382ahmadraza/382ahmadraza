@@ -68,7 +68,7 @@
 
 I'm grateful to my mentors:
 - **Naveed Sarwar** and **Ahmad Jaajja** – for their constant guidance
-- **Umar Abid** – for always believing in me and supporting my journey
+- **Muhammad Umar Abid** – for always believing in me and supporting my journey
 
 ---
 
